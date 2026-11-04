@@ -1,0 +1,3 @@
+{"hora":"2026-01-01T00:00:20Z","origem":"192.0.2.1","conta":"laboratorio","resultado":"sucesso"}
+{"hora":"2026-01-01T00:00:00Z","origem":"192.0.2.1","conta":"laboratorio","resultado":"falha"}
+{"hora":"2026-01-01T00:00:10Z","origem":"192.0.2.1","conta":"laboratorio","resultado":"falha"}
